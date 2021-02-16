@@ -41,9 +41,7 @@ QRS 파형으로 심방 동수, 심장 전기축과 회전 정도를 평가할 �
 
 ## Reference
 
-[1] Kim, June Soo. "QRS complex." International Journal of Arrhythmia 18.2 (2017): 96-99.
-[2] Moskalenko, Viktor, Nikolai Zolotykh, and Grigory Osipov. "Deep Learning for ECG Segmentation." International Conference on Neuroinformatics
-. Springer, Cham, 2019.
-[3] Kashani, Amir, and S. Serge Barold. "Significance of QRS complex duration in patients with heart
-failure." Journal of the American College of Cardiology 46.12 (2005): 2183-2192
+[1] Kim, June Soo. "QRS complex." International Journal of Arrhythmia 18.2 (2017): 96-99.  
+[2] Moskalenko, Viktor, Nikolai Zolotykh, and Grigory Osipov. "Deep Learning for ECG Segmentation." International Conference on Neuroinformatics. Springer, Cham, 2019.  
+[3] Kashani, Amir, and S. Serge Barold. "Significance of QRS complex duration in patients with heart failure." Journal of the American College of Cardiology 46.12 (2005): 2183-2192. 
 [4] Chawla, Nitesh V., et al. "SMOTE: synthetic minority over-sampling technique." Journal of artificial intelligence research (2002): 321-357.
