@@ -1,5 +1,5 @@
 # Electrocardiography
-LUDB dataset을 사용하여 binary classification 한 결과 report. (좀 더 자세한 내용은 pdf파일을 참고해 주시길 바랍니다.)
+고급 ML/DL 중간고사 대체과제 : LUDB dataset을 사용하여 binary classification 한 결과 report. (좀 더 자세한 내용은 pdf파일을 참고해 주시길 바랍니다.)
 
 ## 문제정의
 “QRS 파형은 심실 탈분극에 의해 형성되며, 3 개 파로 구성되어 있다. 12 유도 심전도에서
